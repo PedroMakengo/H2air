@@ -1,0 +1,27 @@
+/* Configurações */
+body,
+.page-wrapper {
+    background: #F7F7F7 !important ;
+}
+ul {
+    list-style: none;
+}
+ul li a {
+    color: #000;
+}
+
+
+
+:root {
+    --themeA: #FC2B00;
+}
+
+/* Bordas */
+.border {
+    border: 1px solid #FC2B00 !important;
+}
+/* Color */
+.color {
+    color: var(--themeA);
+}
+/* Btns */
