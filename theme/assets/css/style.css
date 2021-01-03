@@ -47,3 +47,13 @@
         font-size: 1em !important;
     }
 }
+
+/* Quem Somos */
+.main_fundo_quem_somos {
+    background-color: #FC2B00;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#fc2a2abb), to(#e16a08be)), url(../img/banners/quem_somos.jpg);
+    background-position: center;
+    background-size: 100%;
+    width: 100%;
+    padding: 290px 100px;
+}
